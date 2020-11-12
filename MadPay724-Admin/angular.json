@@ -24,9 +24,28 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/bootstrap-theme.css",
+              "src/assets/css/rtl.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/jquery-jvectormap.css",
+              "src/assets/css/AdminLTE.css",
+              "src/assets/css/_all-skins.min.css",
+              "src/assets/css/loginAndregister.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/JS/jquery.min.js",
+              "src/assets/JS/bootstrap.min.js",
+              "src/assets/JS/fastclick.js",
+              "src/assets/JS/adminlte.min.js",
+              "src/assets/JS/jquery.sparkline.min.js",
+              "src/assets/JS/jquery-jvectormap-1.2.2.min.js",
+              "src/assets/JS/jquery-jvectormap-world-mill-en.js",
+              "src/assets/JS/jquery.slimscroll.min.js",
+              "src/assets/JS/Chart.js",
+              "src/assets/JS/dashboard2.js",
+              "src/assets/JS/demo.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +138,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MadPay724-Admin"
+    }
+  },
+  "defaultProject": "MadPay724-Admin",
+  "cli": {
+    "analytics": "1b9b9dd7-301b-4f40-aeac-f683df10102d"
+  }
 }

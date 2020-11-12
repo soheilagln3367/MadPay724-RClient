@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/style.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MadPay724-App"
+    }
+  },
+  "defaultProject": "MadPay724-App",
+  "cli": {
+    "analytics": "20256c72-b2d1-46a9-9ac5-44f64d01105e"
+  }
 }
